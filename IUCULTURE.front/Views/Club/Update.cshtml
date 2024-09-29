@@ -1,0 +1,46 @@
+﻿@model ClubListModel
+@{
+    Layout = "_Layout";
+}
+
+
+<form class="w-75 m-5 p-3  mx-auto" asp-action="Update" asp-controller="Club" method="post">
+
+    <input type="hidden" asp-for="@Model.Id"/>
+
+    <div class="mb-3">
+        <label for="@Model.ClubName" class="form-label">Kulüp Adı: </label>
+        <span asp-validation-for="@Model.ClubName" class="text-danger"></span>
+        <input type="text" class="form-control" asp-for="@Model.ClubName" />
+    </div>
+    <div class="mb-3">
+        <label for="@Model.ClubLeaderName" class="form-label">Kulüp Lideri Adı: </label>
+        <span asp-validation-for="@Model.ClubLeaderName" class="text-danger"></span>
+        <input type="text" class="form-control" asp-for="@Model.ClubLeaderName" />
+    </div>
+    <div class="mb-3">
+        <label for="@Model.ClubType" class="form-label">Kulüp Tipi: </label>
+        <span asp-validation-for="@Model.ClubType" class="text-danger"></span>
+        <input type="text" class="form-control" asp-for="@Model.ClubType" />
+    </div>
+    <div class="mb-3">
+        <label for="@Model.ClubDefinition" class="form-label">Kulüp Açıklaması: </label>
+        <span asp-validation-for="@Model.ClubDefinition" class="text-danger"></span>
+        <textarea class="form-control" asp-for="@Model.ClubDefinition" rows="3"></textarea>
+    </div>
+    <div class="mb-3">
+        <label for="@Model.ClubDefinitionBold" class="form-label">Kulüp Açıklama Başlığı: </label>
+        <span asp-validation-for="@Model.ClubDefinitionBold" class="text-danger"></span>
+        <input type="text" class="form-control" asp-for="@Model.ClubDefinitionBold" />
+    </div>
+    <div class="mb-3">
+        <label for="@Model.ClubImage" class="form-label">Kulüp Amblemi: </label>
+        <span asp-validation-for="@Model.ClubImage" class="text-danger"></span>
+        <input type="file" class="form-control" asp-for="@Model.ClubImage" />
+    </div>
+    <div class="mb-3">
+        <button class="btn btn-primary w-100">Kaydet</button>
+    </div>
+    <div asp-validation-summary="ModelOnly" class="text-danger">
+    </div>
+</form>

@@ -1,0 +1,78 @@
+﻿@using X.PagedList;
+@using X.PagedList.Mvc.Core
+@using X.PagedList.Web.Common;
+
+@model IPagedList<ClubListModel>
+@{
+    Layout = "_Layout";
+}
+
+@{
+    if (Model?.Count > 0)
+    {
+
+        <div class="text-end">
+            <a asp-action="Create" asp-controller="Club">Kulüp Ekle</a>
+        </div>
+            <!DOCTYPE html>
+                <html lang="en">
+
+                <head>
+                    <meta charset="utf-8">
+                    <title>Kulüpler</title>
+                    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+                    <link href="img/favicon.ico" rel="icon">
+                </head>
+                <body>
+                    <section class="section speakers overlay-lighter">
+                        <div class="container">
+                            <div class="row">
+                                @foreach (var club in Model)
+                                {
+                                    <div class="col-lg-3 col-md-4 col-sm-6">
+                                        <div class="speaker-item">
+                                            <div class="image">
+                                                <img src="~/clubsImage/@club.ClubImage" alt="@club.ClubImage" class="img-fluid" />
+                                                <div class="primary-overlay"></div>
+                                            </div>
+                                            <div class="content text-center">
+                                                <h5><a asp-action="ClubDetails" asp-controller="ClubPublic" asp-route-id="@club.Id" class="text-secondary mb-3">@club.ClubName</a></h5>
+                                                <p>@club.ClubType</p>
+                                            </div>
+                                            <div class="d-flex justify-content-center">
+                                              <a asp-action="Update" asp-controller="Club" asp-route-id="@club.Id" class="btn btn-warning btn-sm">Güncelle</a>
+                                              <a asp-action="Remove" asp-controller="Club" asp-route-id="@club.Id" class="btn btn-danger btn-sm ">Sil</a>
+
+                                            </div>
+                                                                               
+                                         </div>
+                                    </div>
+                                }
+                            </div>
+                        </div>
+
+                    </section>
+                    @Html.PagedListPager((IPagedList)Model,page=>Url.Action("List", new{ page }), new PagedListRenderOptions{
+                    LiElementClasses = new List<string>{
+                    "page-link"
+                    }
+                    })
+                    <a href="#" class="btn btn-lg btn-secondary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
+               </body>
+               </html>
+
+        
+                        
+                       
+                        
+                   
+
+   
+    }
+    else
+    {
+        <div class="text-center">
+            Herhangi bir kayıt bulunamadı
+        </div>
+    }
+}

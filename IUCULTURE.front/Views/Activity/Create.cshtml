@@ -1,0 +1,60 @@
+﻿@using System.Text.Json;
+@model CreateActivityModel
+@{
+    Layout = "_Layout";
+}
+
+
+<form class="w-75 m-5 p-3  mx-auto" asp-action="Create" asp-controller="Activity" method="post">
+
+
+    @{
+        TempData["Clubs"] = JsonSerializer.Serialize(Model.Clubs);
+    }
+
+
+    <div class="mb-3">
+        <label for="@Model.ClubId" class="form-label">Kulüp Adı: </label>
+        <select class="form-select" asp-items="@Model.Clubs" asp-for="ClubId">
+        </select>
+    </div>
+
+    <div class="mb-3">
+        <label for="@Model.ActivityName" class="form-label">Etkinlik Adı: </label>
+        <span asp-validation-for="@Model.ActivityName" class="text-danger"></span>
+        <input type="text" class="form-control" asp-for="@Model.ActivityName" />
+    </div>
+    <div class="mb-3">
+        <label for="@Model.ActivityDate" class="form-label">Etkinlik Tarihi: </label>
+        <span asp-validation-for="@Model.ActivityDate" class="text-danger"></span>
+        <input type="date" class="form-control" asp-for="@Model.ActivityDate" />
+    </div>
+    <div class="mb-3">
+        <label for="@Model.ActivityType" class="form-label">Etkinlik Tipi: </label>
+        <span asp-validation-for="@Model.ActivityType" class="text-danger"></span>
+        <input type="text" class="form-control" asp-for="@Model.ActivityType" />
+    </div>
+    <div class="mb-3">
+        <label for="@Model.ActivityDefinition" class="form-label">Etkinlik Açıklaması: </label>
+        <span asp-validation-for="@Model.ActivityDefinition" class="text-danger"></span>
+        <textarea class="form-control" asp-for="@Model.ActivityDefinition" rows="3"></textarea>
+        
+    </div>
+    <div class="mb-3">
+        <label for="@Model.ActivityDefinitionBold" class="form-label">Etkinlik Açıklama Başlığı: </label>
+        <span asp-validation-for="@Model.ActivityDefinitionBold" class="text-danger"></span>
+        <input type="text" class="form-control" asp-for="@Model.ActivityDefinitionBold" />
+    </div>
+    <div class="mb-3">
+        <label for="@Model.ActivityImage" class="form-label">Etkinlik Görseli: </label>
+        <span asp-validation-for="@Model.ActivityImage" class="text-danger"></span>
+        <input type="file" class="form-control" asp-for="@Model.ActivityImage" />
+    </div>
+
+  
+    <div class="mb-3">
+        <button class="btn btn-primary w-100">Kaydet</button>
+    </div>
+    <div asp-validation-summary="ModelOnly" class="text-danger">
+    </div>
+</form>

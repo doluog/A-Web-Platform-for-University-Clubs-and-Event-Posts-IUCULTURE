@@ -1,0 +1,92 @@
+﻿@using X.PagedList;
+@using X.PagedList.Mvc.Core
+@using X.PagedList.Web.Common;
+@model IPagedList<ActivityListModel>
+@{
+    Layout = "_Layout";
+}
+
+@{
+    if (Model?.Count > 0)
+    {
+        <div class="text-end">
+            <a asp-action="Create" asp-controller="Activity">Etkinlik Ekle</a>
+        </div>
+        <!DOCTYPE html>
+        <html lang="en">
+
+        <head>
+            <meta charset="utf-8">
+            <title>Etkinlikler</title>
+            <meta content="width=device-width, initial-scale=1.0" name="viewport">
+            <!-- Favicon -->
+            <link href="img/favicon.ico" rel="icon">
+        </head>
+
+        <body>
+
+
+            <div class="container py-6 px-5">
+                <div class="row g-5">
+
+
+                    @foreach (var activity in Model)
+                    {
+
+
+                        <div class="col-lg-4 col-md-6 mb-4">
+                            <div class="bg-dark">
+                                <div class="p-4">
+                                    <div class="d-flex justify-content-between mb-4">
+                                        <div class="d-flex align-items-center">
+                                            <a class="text-secondary" asp-action="ClubDetails" asp-controller="ClubPublic" asp-route-id="@activity.ClubId">
+                                                @activity.ClubId
+                                            </a>
+
+
+                                        </div>
+                                        <div class="d-flex align-items-center">
+                                            <span class="ms-3">@activity.ActivityDate</span>
+                                        </div>
+                                    </div>
+
+                                    <p></p>
+                                    <h4 class="text-secondary mb-3"><a asp-action="ActivityDetails" asp-controller="ActivityPublic" asp-route-id="@activity.Id" class="text-secondary mb-3">@activity.ActivityName</a></h4>
+
+                                </div>
+                                <div class="d-flex justify-content-center">
+                                    <a asp-action="Update" asp-controller="Activity" asp-route-id="@activity.Id" class="btn btn-warning btn-sm">Güncelle</a>
+                                    <a asp-action="Remove" asp-controller="Activity" asp-route-id="@activity.Id" class="btn btn-danger btn-sm">Sil</a>
+                                </div>
+                                
+                            </div>
+
+                        </div>
+
+                    }
+                </div>
+                @Html.PagedListPager((IPagedList)Model,page=>Url.Action("List", new{ page }), new PagedListRenderOptions{
+        LiElementClasses = new List<string>{
+        "page-link"
+        }
+        })
+
+
+            </div>
+
+            <!-- Back to Top -->
+           
+        </body>
+
+        </html>
+        
+                            
+  
+    }
+    else
+    {
+        <div class="text-center">
+            Herhangi bir kayıt bulunamadı
+        </div>
+    }
+}

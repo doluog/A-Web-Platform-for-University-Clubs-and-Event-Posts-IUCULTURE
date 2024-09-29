@@ -1,0 +1,77 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = IUCULTURE.front
+build_property.RootNamespace = IUCULTURE.front
+build_property.ProjectDir = C:\Users\USER\OneDrive\Masaüstü\IUCULTURE!\IUCULTURE.front\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\USER\OneDrive\Masaüstü\IUCULTURE!\IUCULTURE.front
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/USER/OneDrive/Masaüstü/IUCULTURE\!/IUCULTURE.front/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/OneDrive/Masaüstü/IUCULTURE\!/IUCULTURE.front/Views/ActivityPublic/ActivityDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdHlQdWJsaWNcQWN0aXZpdHlEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/OneDrive/Masaüstü/IUCULTURE\!/IUCULTURE.front/Views/ActivityPublic/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdHlQdWJsaWNcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/OneDrive/Masaüstü/IUCULTURE\!/IUCULTURE.front/Views/Activity/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdHlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/OneDrive/Masaüstü/IUCULTURE\!/IUCULTURE.front/Views/Activity/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdHlcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/OneDrive/Masaüstü/IUCULTURE\!/IUCULTURE.front/Views/Activity/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdHlcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/OneDrive/Masaüstü/IUCULTURE\!/IUCULTURE.front/Views/ClubPublic/ClubDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YlB1YmxpY1xDbHViRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/OneDrive/Masaüstü/IUCULTURE\!/IUCULTURE.front/Views/ClubPublic/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YlB1YmxpY1xMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/OneDrive/Masaüstü/IUCULTURE\!/IUCULTURE.front/Views/Club/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YlxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/OneDrive/Masaüstü/IUCULTURE\!/IUCULTURE.front/Views/Club/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YlxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/OneDrive/Masaüstü/IUCULTURE\!/IUCULTURE.front/Views/Club/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YlxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/OneDrive/Masaüstü/IUCULTURE\!/IUCULTURE.front/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/OneDrive/Masaüstü/IUCULTURE\!/IUCULTURE.front/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/OneDrive/Masaüstü/IUCULTURE\!/IUCULTURE.front/Views/Team/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbVxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/OneDrive/Masaüstü/IUCULTURE\!/IUCULTURE.front/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,741 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\READ-ME.txt",
+      "PackagePath": "staticwebassets\\READ-ME.txt"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\activitiesImage\\234234.jpg",
+      "PackagePath": "staticwebassets\\activitiesImage\\234234.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\activitiesImage\\mezun-zirvesi.jpg",
+      "PackagePath": "staticwebassets\\activitiesImage\\mezun-zirvesi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\activitiesImage\\mobildevelopment.jpg",
+      "PackagePath": "staticwebassets\\activitiesImage\\mobildevelopment.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\activitiesImage\\puzzle.jpg",
+      "PackagePath": "staticwebassets\\activitiesImage\\puzzle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\anasayfa.html",
+      "PackagePath": "staticwebassets\\anasayfa.html"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\clubsImage\\BilgisayarKulübü.jpg",
+      "PackagePath": "staticwebassets\\clubsImage\\BilgisayarKulübü.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\clubsImage\\SosyalAktivitelerKulübü.jpg",
+      "PackagePath": "staticwebassets\\clubsImage\\SosyalAktivitelerKulübü.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\clubsImage\\değiştir.jpg",
+      "PackagePath": "staticwebassets\\clubsImage\\değiştir.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\construction-company-website-template-free.jpg",
+      "PackagePath": "staticwebassets\\construction-company-website-template-free.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\contact.html",
+      "PackagePath": "staticwebassets\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\ekibimiz.html",
+      "PackagePath": "staticwebassets\\ekibimiz.html"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\etkinlikler.html",
+      "PackagePath": "staticwebassets\\etkinlikler.html"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\Atakan-Akın.jpg",
+      "PackagePath": "staticwebassets\\img\\Atakan-Akın.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\anasayfa-1.jpg",
+      "PackagePath": "staticwebassets\\img\\anasayfa-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\back-future.jpg",
+      "PackagePath": "staticwebassets\\img\\back-future.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\ege-kıldan.jpg",
+      "PackagePath": "staticwebassets\\img\\ege-kıldan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\ensar-bulduk.jpg",
+      "PackagePath": "staticwebassets\\img\\ensar-bulduk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\furkan-kaplan.jpg",
+      "PackagePath": "staticwebassets\\img\\furkan-kaplan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\gelişim-günleri.jpg",
+      "PackagePath": "staticwebassets\\img\\gelişim-günleri.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\getek-22-1.jpg",
+      "PackagePath": "staticwebassets\\img\\getek-22-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\getek-22-2.jpg",
+      "PackagePath": "staticwebassets\\img\\getek-22-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\getek-22-3.jpg",
+      "PackagePath": "staticwebassets\\img\\getek-22-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\getek-22.jpg",
+      "PackagePath": "staticwebassets\\img\\getek-22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\iq.jpg",
+      "PackagePath": "staticwebassets\\img\\iq.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\iüc-2.jpg",
+      "PackagePath": "staticwebassets\\img\\iüc-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\iüc.jpg",
+      "PackagePath": "staticwebassets\\img\\iüc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\kariyer-şenliği.jpg",
+      "PackagePath": "staticwebassets\\img\\kariyer-şenliği.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\kimya-mühendisliği.jpg",
+      "PackagePath": "staticwebassets\\img\\kimya-mühendisliği.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\mustafa-döğer.jpg",
+      "PackagePath": "staticwebassets\\img\\mustafa-döğer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\portfolio-1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\portfolio-4.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\portfolio-5.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\portfolio-6.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\service-1.jpg",
+      "PackagePath": "staticwebassets\\img\\service-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\service-2.jpg",
+      "PackagePath": "staticwebassets\\img\\service-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\service-3.jpg",
+      "PackagePath": "staticwebassets\\img\\service-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\service-4.jpg",
+      "PackagePath": "staticwebassets\\img\\service-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\service-5.jpg",
+      "PackagePath": "staticwebassets\\img\\service-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\service-6.jpg",
+      "PackagePath": "staticwebassets\\img\\service-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\signature.jpg",
+      "PackagePath": "staticwebassets\\img\\signature.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\testimonial.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\kulüpler.html",
+      "PackagePath": "staticwebassets\\kulüpler.html"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\lib\\isotope\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\lib\\isotope\\isotope.pkgd.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\lib\\isotope\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\lib\\isotope\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\lib\\lightbox\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\css\\lightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\lib\\lightbox\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\lib\\lightbox\\images\\close.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\lib\\lightbox\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\lib\\lightbox\\images\\next.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\lib\\lightbox\\images\\prev.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\lib\\lightbox\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\js\\lightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\lib\\lightbox\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\lib\\lightbox\\links.php",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\project.html",
+      "PackagePath": "staticwebassets\\project.html"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\testimonial.html",
+      "PackagePath": "staticwebassets\\testimonial.html"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\xyzetkinliği.html",
+      "PackagePath": "staticwebassets\\xyzetkinliği.html"
+    },
+    {
+      "Id": "C:\\Users\\USER\\OneDrive\\Masaüstü\\IUCULTURE!\\IUCULTURE.front\\wwwroot\\xyzkulübü.html",
+      "PackagePath": "staticwebassets\\xyzkulübü.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.IUCULTURE.front.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.IUCULTURE.front.props",
+      "PackagePath": "build\\IUCULTURE.front.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.IUCULTURE.front.props",
+      "PackagePath": "buildMultiTargeting\\IUCULTURE.front.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.IUCULTURE.front.props",
+      "PackagePath": "buildTransitive\\IUCULTURE.front.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

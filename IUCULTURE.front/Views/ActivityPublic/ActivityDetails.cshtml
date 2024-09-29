@@ -1,0 +1,111 @@
+﻿@model ActivityListModel
+@{
+    Layout = "_Layout";
+}
+
+    <!-- Etkinlik Baslangic -->
+    <div class="container py-5 px-4">
+        <div class="row g-5">
+            <div class="col-lg-8">
+                <!-- Carousel Başlangıç -->
+                <div class="container p-0" style="margin-bottom: 10px;">
+                    <div id="header-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                <img class="w-100" src="img/getek-22-1.jpg" alt="Image">
+
+                            </div>
+                            <div class="carousel-item">
+                                <img class="w-100" src="img/getek-22-2.jpg" alt="Image">
+
+                            </div>
+                            <div class="carousel-item">
+                                <img class="w-100" src="img/getek-22-3.jpg" alt="Image">
+
+                            </div>
+                        </div>
+                        <button class="carousel-control-prev" type="button" data-bs-target="#header-carousel"
+                                data-bs-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Previous</span>
+                        </button>
+                        <button class="carousel-control-next" type="button" data-bs-target="#header-carousel"
+                                data-bs-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Next</span>
+                        </button>
+                    </div>
+                </div>
+                <!-- Carousel Bitiş -->
+                <!-- Detay Başlangıç -->
+            
+                <div class="detay">
+                    <div class="mb-5">
+
+                        <h1 class="text-uppercase text-secondary mb-4">
+                            @Model.ActivityDefinitionBold
+                        </h1>
+                        <p>
+                        @Model.ActivityDefinition
+                        </p>
+                    </div>
+                </div>
+                <!-- Detay Bitiş -->
+            
+
+
+
+            </div>
+
+            <!-- Yan Çubuk Başlangıç -->
+            <div class="col-lg-4">
+
+                <!-- Son Etkinlikler Başlangıç -->
+                <div class="mb-5">
+                    <h3 class="text-uppercase mb-4 text-secondary">GEÇMİŞ ETKİNLİKLER</h3>
+                    <div class="bg-light p-4">
+                        <div class="d-flex mb-3">
+                            <img class="img-fluid" src="img/kariyer-şenliği.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
+                            <a href="" class="h6 d-flex align-items-center bg-white text-uppercase px-3 mb-0">
+                                Lorem ipsum dolor sit amet consec adipis
+                            </a>
+                        </div>
+                        <div class="d-flex mb-3">
+                            <img class="img-fluid" src="img/kimya-mühendisliği.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
+                            <a href="" class="h6 d-flex align-items-center bg-white text-uppercase px-3 mb-0">
+                                Lorem ipsum dolor sit amet consec adipis
+                            </a>
+                        </div>
+                        <div class="d-flex mb-3">
+                            <img class="img-fluid" src="img/getek-22.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
+                            <a href="" class="h6 d-flex align-items-center bg-white text-uppercase px-3 mb-0">
+                                Lorem ipsum dolor sit amet consec adipis
+                            </a>
+                        </div>
+                        <div class="d-flex mb-3">
+                            <img class="img-fluid" src="img/mezun-zirvesi.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
+                            <a href="" class="h6 d-flex align-items-center bg-white text-uppercase px-3 mb-0">
+                                Lorem ipsum dolor sit amet consec adipis
+                            </a>
+                        </div>
+                        <div class="d-flex mb-3">
+                            <img class="img-fluid" src="img/back-future.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
+                            <a href="" class="h6 d-flex align-items-center bg-white text-uppercase px-3 mb-0">
+                                Lorem ipsum dolor sit amet consec adipis
+                            </a>
+                        </div>
+                        <div class="d-flex">
+                            <img class="img-fluid" src="img/kariyer-şenliği.jpg" style="width: 100px; height: 100px; object-fit: cover;" alt="">
+                            <a href="" class="h6 d-flex align-items-center bg-white text-uppercase px-3 mb-0">
+                                Lorem ipsum dolor sit amet consec adipis
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Son Etkinlikler Bitiş -->
+            </div>
+            <!-- Yan Çubuk Bitiş -->
+        </div>
+    </div>
+    <!-- Blog End -->
+

@@ -1,0 +1,121 @@
+﻿@model ClubListModel
+@{
+    Layout = "_Layout";
+}
+
+<!-- About Start -->
+<div class="about">
+    <div class="container py-5 px-4">
+        <div class="row g-5">
+            <div class="col-lg-7">
+                <h1 class="display-5 text-uppercase mb-4">BİZ <span class="display-5 text-secondary mb-4">@Model.ClubName</span>  KULÜBÜYÜZ</h1>
+                <h4 class="mb-4 text-body">@Model.ClubDefinitionBold</h4>
+               
+                
+                    <p class="mb-4 text-body">@Model.ClubDefinition</p>
+
+            </div>
+            <div class="col-lg-5 pb-5" style="min-height: 200px;">
+                <div class="col-xl-10 col-lg-10 col-md-10">
+                    <div class="row g-0">
+                        <div class="col-10" style="min-height: 150px;">
+                            <div class="position-relative h-100">
+                                <img src="~/clubsImage/@Model.ClubImage" alt="@Model.ClubImage" class="img-fluid" />
+                            </div>
+                        </div>
+                        <div class="col-2">
+                            <div class="h-100 d-flex flex-column align-items-center justify-content-between bg-light">
+
+                                <a class="btn" href="#"><i class="fab fa-linkedin-in"></i></a>
+                                <a class="btn" href="#"><i class="fab fa-instagram"></i></a>
+                                <a class="btn" href="#"><i class="fab fa-youtube"></i></a>
+                            </div>
+                        </div>
+                        <div class="col-12">
+                            <div class="bg-light p-4">
+                                <span style="font-size: 20px; font-weight: bold;">Kulüp Tipi</span>
+                                <h4 class="text-secondary text-uppercase">@Model.ClubType</h4>
+                                <span style="font-size: 20px; font-weight: bold;">Kulüp Başkanı</span>
+                                <h4 class="text-secondary text-uppercase">@Model.ClubLeaderName</h4>
+
+
+                            </div>
+                            <!--<div class="row bg-light" style="margin-left: auto; margin-right: auto; margin-top: 15px; min-height:50px">
+                                <div class="col-xl-12 col-lg-16 col-md-24">
+                                    <table class="rwd-table">
+                                        <tr>
+                                            <th>Aktiflik Sıralaması</th>
+                                            <th>XY Dalındaki Sıralaması</th>
+                                            <th>Puanlarınız</th>
+                                        </tr>
+                                        <tr>
+                                            <td data-th="Aktiflik Sıralamas">1 </td>
+                                            <td data-th="XY Dalındaki Sıralaması">2 </td>
+                                            <td data-th="Puanlarınız">3</td>
+
+                                        </tr>
+
+                                    </table>
+                                </div>
+
+                            </div>-->
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<!-- About End -->
+<!-- Eski Etkinlikler Başlangıç -->
+<div class="etkinlikler">
+    <div class="container">
+        <h3 class="text-secondary text-uppercase mb-4 text-center">GEÇMİŞ ETKİNLİKLER</h3>
+        <div class="row g-5 portfolio-container">
+            <div class="col-xl-4 col-lg-6 col-md-6 portfolio-item first">
+                <div class="position-relative portfolio-box">
+                    <img class="img-fluid w-100" src="img/getek-22.jpg" alt="">
+                    <a class="portfolio-title shadow-sm" href="">
+                        <p class="h4 text-uppercase">Getek-22</p>
+
+                    </a>
+                    <a class="portfolio-btn" href="img/getek-22.jpg" data-lightbox="portfolio">
+                        <i class="bi bi-plus text-white"></i>
+                    </a>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-6 col-md-6 portfolio-item second">
+                <div class="position-relative portfolio-box">
+                    <img class="img-fluid w-100" src="img/back-future.jpg" alt="">
+                    <a class="portfolio-title shadow-sm" href="">
+                        <p class="h4 text-uppercase">Back To The Future</p>
+
+                    </a>
+                    <a class="portfolio-btn" href="img/back-future.jpg" data-lightbox="portfolio">
+                        <i class="bi bi-plus text-white"></i>
+                    </a>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-6 col-md-6 portfolio-item first">
+                <div class="position-relative portfolio-box">
+                    <img class="img-fluid w-100" src="img/kariyer-şenliği.jpg" alt="">
+                    <a class="portfolio-title shadow-sm" href="">
+                        <p class="h4 text-uppercase">KARİYER ŞENLİĞİ</p>
+
+                    </a>
+                    <a class="portfolio-btn" href="img/kariyer-şenliği.jpg" data-lightbox="portfolio">
+                        <i class="bi bi-plus text-white"></i>
+                    </a>
+                </div>
+            </div>
+
+
+
+        </div>
+    </div>
+</div>
+    
+
